@@ -17,7 +17,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 - Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
 - SQL – Data querying and analysis, MySQL
 - Power BI – Interactive dashboard creation
-- Gamma – Presentation (PPT) creation
+- Power point – Presentation (PPT) creation
 - Spyder – Python analysis environment
 
 
@@ -35,7 +35,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
   - Standardized and prepared data for analysis.
 
 #### 4. SQL Analysis
-  - Loaded cleaned data into PostgreSQL / MySQL / SQL Server.
+  - Loaded cleaned data into  MySQL 
   - Wrote SQL queries to extract insights and answer business questions.
 
 #### 5. Dashboard Development
@@ -67,23 +67,25 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ## How to Run This Project ▶️
 
 - Clone the repository
-: git clone https://github.com/Sarath-kumar-Pothireddy/Customer-Shopping-Behavior-Analysis.git
+: git clone https://github.com/Sarath-kumar-Pothireddy/Customer-Shipping-and-Shopping-Behavior-Analysis
 - Install required Python libraries
  : pip install pandas numpy matplotlib seaborn
-- Run the Jupyter Notebook to perform EDA and data cleaning.
-- Load the cleaned dataset into PostgreSQL / MySQL / SQL Server.
+- Run the Spyder/Jupyter Notebook to perform EDA and data cleaning.
+- Load the cleaned dataset into PostgreSQL / MySQL.
 - Execute SQL queries from the provided .sql file.
 - Open the Power BI file to explore the dashboard.
-- View the final presentation created using Gamma.
+- View the final presentation created using Power point.
 
 
 ## Key Skills Demonstrated 📌
 
 #### Data Analysis
 - Data Cleaning & Exploratory Data Analysis (EDA)
-- SQL Querying (PostageSQL / MySQL / SQL Server)
+- SQL Querying (PostageSQL / MySQL)
   
 #### Visualization & Reporting
-- Data Visualization
+- KPI Analysis & Performance Monitoring
 - Dashboard Development using Power BI
 - Business Reporting & Storytelling
+- Problem-Solving & Analytical Thinking
+- Attention to Data Accuracy and Quality
